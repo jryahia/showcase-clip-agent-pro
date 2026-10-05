@@ -41,6 +41,8 @@ Cutting short-form clips from podcasts, streams and interviews is slow manual wo
 
 ## Screenshots
 
+> Screenshots show the app running on seeded demo data, not client data.
+
 **Clip proposals, each with a stated reason**
 
 ![Clip proposals, each with a stated reason](assets/3_five_clip_proposal.png)
