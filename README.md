@@ -29,6 +29,7 @@ Cutting short-form clips from podcasts, streams and interviews is slow manual wo
 - Burned-in captions and generated post copy
 - Campaign compliance check against platform rules
 - Runs locally as a desktop app
+- Automated license delivery after purchase: a Cloudflare Worker verifies the payment webhook, claims a unique code from a D1 pool in one statement, and emails the customer
 
 ## Tech stack
 
